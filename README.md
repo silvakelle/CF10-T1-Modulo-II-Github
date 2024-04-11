@@ -1,4 +1,4 @@
-# Ciclo Formativo PretaLab | Módulo II - Github 🚀 
+# Ciclo Formativo PretaLab Básico | Módulo II - Github 🚀 
 
 ![image](https://media.giphy.com/media/968taxwNaAXqZASdcn/giphy.gif)
 
