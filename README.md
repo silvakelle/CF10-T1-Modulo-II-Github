@@ -13,7 +13,7 @@ As aulas serão organizadas por tópicos e atualizarei este repositório ao fina
 
 ## Projeto Final
 
-Nosso projeto final consistirá na criação de um repositório no GitHub contendo arquivos relacionados ao aprendizado do curso. 
+Nosso projeto final consistirá no fork de um repositório no GitHub contendo arquivos relacionados ao aprendizado do curso.
 
 ## Tecnologias Utilizadas
 
